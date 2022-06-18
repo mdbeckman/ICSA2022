@@ -198,14 +198,13 @@ Currently working to evaluate human-generated feedback provided to the short ans
 #. Viera, A. J., & Garrett, J. M. (2005). Understanding interobserver agreement: the kappa statistic. *Family Medicine, 37*(5), 360–363.
 
 
-# Q & A 
+# Thank You 
 
 
 \titlepage
 
 
-Include URL for gh-pages site for presentation
-
+Resource Page URL: <https://mdbeckman.github.io/ICSA2022/>
 
 <!-- # Backup slide -->
 
