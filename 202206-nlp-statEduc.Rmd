@@ -77,6 +77,10 @@ Study utilized de-identified extant data & scoring rubrics from an unrelated pre
 - 1,935 students total
 - 29 class sections 15 distinct institutions
 
+# Methods (Short-answer task)
+
+![Sample task including a stem and two shor-answer prompts.](istudio_example.png){width=90%}
+
 # Methods (Humans)
 
 - 3 human raters typical of large-enrollment instruction team
