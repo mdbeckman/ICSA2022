@@ -1,4 +1,4 @@
-# 2022 ICSA Symposium
+# 2022 ICSA Applied Statistics Symposium
 
 ## Foundations for NLP-assisted formative assessment feedback for short-answer tasks in large-enrollment classes
 
