@@ -15,7 +15,7 @@ Research has linked "write-to-learn" tasks to improved learning outcomes, yet co
 Lloyd, S.E., Beckman, M.D., Pearl, D.K., Passonneau, R.J., Li, Z., & Wang, Z. (in review). Foundations of NLP-assisted formative assessment feedback for short-answer tasks in large enrollment statistics classes. Preprint URL: <http://arxiv.org/abs/2205.02829>
 
 
-![https://mdbeckman.github.io/ICSA2022/](ICSA2022_QRcode.png){width=30%}
+![https://mdbeckman.github.io/ICSA2022/](ICSA2022_QRcode.png)
 
 
 
